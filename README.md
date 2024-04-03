@@ -1,4 +1,5 @@
 FASHION RECOMMENDATION SYSTEM USING AI AND PAGERANK ALGORITHM 
+
 Introduction
             This project implements a fashion recommendation system using the PageRank algorithm. The system suggests fashion items based on their relevance and popularity within a fashion graph.
 
